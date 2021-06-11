@@ -3,6 +3,8 @@
 -재미있는 수업이었기를 바랍니다.
 -건강한 모습으로 다시 뵙겠습니다.
 -야호, 여름방학이다~!
-$ git branch
+$ git branch master
+$ git checkout -b <feature>
+$ git squash master
+$ git tag "final"
 
-$git tag "final"
